@@ -1,0 +1,20 @@
+.dccache
+
+# env
+env
+environment.yml
+
+# DS_Store
+*.DS_Store
+
+# Jupyter checkpoints
+*.ipynb_checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Model files
+*.pkl
+*.joblib
+
+# Large data file
+data/bluebook-for-bulldozers/
